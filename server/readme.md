@@ -1,10 +1,3 @@
-prakash user pakashuniyal@gmail.com
-password 12345678
-
-rishabh user rishabtyagi@gmail.com
-password rishab123 
-
-
 # first step
 
 # first add file .env 
